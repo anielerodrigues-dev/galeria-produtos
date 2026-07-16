@@ -1,0 +1,19 @@
+body{ 
+
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 40px;
+
+}
+
+main{
+
+    display: flex;
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+
+
