@@ -1,19 +1,49 @@
 body{ 
 
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 40px;
+    font-family: Arial, sans-serif;                   
+    background-color: #f4f4f4;                
+    margin: 40px;                                 
 
 }
 
 main{
 
-    display: flex;
-    gap:20px;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
+    display: flex;                                    
+    gap:20px;                                        
+    justify-content: center;                         
+    align-items: center;                            
+    flex-wrap: wrap;                            
 
 }
 
+button{
 
+    background-color:green;           
+    color: white;                     
+    border: none;                    
+    padding: 10px 20px;               
+    border-radius: 5px;               
+    cursor: pointer;                
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+button:hover{        
+    
+    background-color: rgb(2, 222, 10);
+    transform: scale(1.1);              
+}
+
+img{
+
+    width: 100%;
+    height: 220px;
+    border-radius: 10px;
+    object-fit: cover;
+
+}
+
+.card{
+
+    text-align: center;
+
+}
