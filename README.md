@@ -1,2 +1,2 @@
 # galeria-produtos
-Projeto desenvolvido para praticar HTML5 e CSS3, utilizando Flexbox para organização do layout, criação de cards de produtos e boas práticas de estruturação de páginas.
+Projeto desenvolvido com HTML5 e CSS3 para praticar estrutura semântica, Flexbox, estilização de componentes, efeitos de hover, animações com transition e transform, além da organização de layouts responsivos.
