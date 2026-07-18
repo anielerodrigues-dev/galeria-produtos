@@ -55,6 +55,15 @@ img{
 
 }
 
+.preco{
+    
+    font-size: 22px;
+    font-weight: bold;
+    color: #f57c00;
+    margin-bottom: 16px;
+
+}
+
 .card:hover{
 
     transform: translateY(-8px);
